@@ -219,6 +219,18 @@ footer address{
   padding: 0.25rem;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
+#contactUs h3 {
+  visibility: hidden;
+}
+
+#aboutPlants h3 {
+  visibility: hidden;
+}
+
 /* ------------------------MOBILE STYLES--------------------- */
 
 header img{
