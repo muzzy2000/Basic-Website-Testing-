@@ -306,6 +306,16 @@ header img{
     grid-column: 1/-1;
   }
 
+  #contactUs p, img {
+    position: relative;
+    bottom: 20px;
+  }
+
+  #aboutPlants p, img {
+    position: relative;
+    bottom: 20px;
+  }
+
 }
 
 @media screen and (min-width: 600px){
@@ -346,6 +356,16 @@ header img{
     max-width: 70%;
     max-height: 70%
   }
+
+  #contactUs p, img {
+    position: relative;
+    bottom: 20px;
+  }
+
+  #aboutPlants p, img {
+    position: relative;
+    bottom: 20px;
+  }
 }
 
 /* -----------------------MED SCREEN STYLES-------------------- */
@@ -384,6 +404,16 @@ header img{
     font-size: 20px;
     
   }
+  
+  #contactUs p, img {
+    position: relative;
+    bottom: 20px;
+  }
+
+  #aboutPlants p, img {
+    position: relative;
+    bottom: 20px;
+  }
 }
 
 /* -----------------------LARGE SCREEN STYLES-------------------- */
@@ -408,8 +438,18 @@ header img{
     margin-bottom: 0;
   }
 
+  #aboutPlants p, img {
+    position: relative;
+    bottom: 20px;
+  }
+
   #contactUs{
     margin-bottom: 0;
+  }
+
+  #contactUs p, img {
+    position: relative;
+    bottom: 20px;
   }
 
   .desktop{
